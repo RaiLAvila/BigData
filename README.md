@@ -6,3 +6,4 @@
 
 ## Fluxograma
 
+<img src="FluxogramaChatbox.drawio.png" alt="Fluxograma" />
